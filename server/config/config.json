@@ -1,0 +1,35 @@
+{
+  "development": {
+    "username": "dbuser",
+    "password": "dbuser",
+    "database": "portal",
+    "host": "pgadmin.kbserver.com",
+    "dialect": "postgres"
+  },
+  "tests": {
+    "username": "mwhfpjjr",
+    "password": "cqyEqpa_cBxqMdzJGUo4SKi3D-tsCDwq",
+    "database": "mwhfpjjr",
+    "host": "horton.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "home": {
+    "username": "uxuaunlj",
+    "password": "3nsuPpCn5fY7GR4-PMqSAZmyMMvrpJYM",
+    "database": "uxuaunlj",
+    "host": "horton.elephantsql.com",
+    "dialect": "postgres"
+  },
+
+  "secret": "myfavoritecake",
+
+  "smtpConfig": {
+    "host": "smtp.gmail.com",
+    "port": 465,
+    "secure": true,
+    "auth": {
+      "user": "rgups.portal.bot@gmail.com",
+      "pass": "ytrewq123"
+    }
+  }
+}

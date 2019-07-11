@@ -1,0 +1,9 @@
+{
+    "version": "1.0.0",
+    "url": "/api/v1",
+    "src": "server/",
+    "dest": "server/docs/api/",
+    "includeFilters": [
+        ".*\\.js$"
+    ]
+}

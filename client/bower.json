@@ -1,0 +1,23 @@
+{
+  "name": "rstu-portal-web-client",
+  "description": "Web client for RSTU Portal",
+  "main": "",
+  "authors": [
+    "Maksim Karelov <max.karelov@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flexboxgrid": "^6.3.2",
+    "material-design-lite": "^1.2.1",
+    "normalize-css": "normalize.css#^5.0.0",
+    "roboto-fontface": "^0.6.0"
+  }
+}
