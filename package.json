@@ -28,7 +28,7 @@
     "pg-hstore": "^2.3.2",
     "promise": "^7.1.1",
     "request": "^2.79.0",
-    "sequelize": "^3.24.3",
+    "sequelize": "^6.3.5",
     "tap-spec": "^4.1.1",
     "ts-loader": "^0.9.0",
     "vue": "^2.0.1"
